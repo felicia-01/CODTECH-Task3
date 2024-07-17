@@ -3,7 +3,7 @@
 **Intern Id:** CT4FWD2570
 **Domain:** FRONTEND WEB DEVELOPMENT
 **Duration:** June 20th to July 20th (2024)
-**Mentor:**
+**Mentor:** Neela Santhosh Kumar
 
 ## Overview of the project
 
